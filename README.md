@@ -10,7 +10,7 @@ Telegram bot для оповещение друзей и сбора на мер�
 
 > ## Клонируем репозиторий
 ```
-git clone git@github.com:Impossible14/foodgram-project-react.git
+git clone git@github.com:Impossible14/invite_bot.git
 ```
 > ## Создаём виртуальное окружение и активируем (venv)
 ```
